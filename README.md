@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gatsby Starter eCommerce
 
 Gatsby starter for creating an eCommerce site using [Moltin eCommerce Api ](https://moltin.com/).
@@ -40,3 +41,7 @@ STRIPE_PUBLISHABLE_KEY=
 - Semantic-UI
 - Authentication via Moltin (Login and Register)
 - Stripe checkout
+=======
+# ilovelamp
+Educational project
+>>>>>>> 2b158029276641f1b0a9b926a677c4128360f1c8
